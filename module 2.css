@@ -13,11 +13,11 @@ h1{
 section.column{
 
 
-	 border: 1px solid black;
+	 border: 2px solid black;
     background-color: #a9acbb;
-    margin: 15px
+    margin: 3px;
     background-color: #a9acbb;
-    margin: 10px;
+    
 }
 #id1,#id2,#id3{
     width: 160px;
